@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ed-Neema
-- 👀 I’m interested in Data Science, Python Programming, Web Development and Software Engineering
+- 👀 I’m interested in Web Development and Software Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Open Source Projects and anything that's exciting and creates an impact in the community
 - 📫 You can reach me at ednahakoth21@gmail.com
